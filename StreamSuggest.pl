@@ -1,8 +1,6 @@
 /*
 Stream Suggestion System 
-Made By: Mohammed Sohaib Rasul 
-Roll Number:101903385 
-Batch: COE15
+Made By: Mohammed Sohaib Rasul
 
 Given the interests of a student this program will help suggest suitable streams and subjects for students going to class 11
 
